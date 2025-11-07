@@ -1,1 +1,1 @@
-# chest-cancer-classification
+# Chest-Cancer-Classification
